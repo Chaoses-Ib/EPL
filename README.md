@@ -1,6 +1,6 @@
 # 易语言
-## Language
-- [Error Handling](Language/Error.md)
+## 语言
+- [错误处理](语言/错误处理.md)
 
-## Build
-- [DLL](Build/DLL.md)
+## 构建
+- [DLL](构建/DLL.md)
